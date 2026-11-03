@@ -1,4 +1,3 @@
-# Exoplanet-ML-NASA
 # 🪐 A World Away — Exoplanet Discovery with AI
 
 ### NASA Space Apps Challenge 2025 | Machine Learning & Scientific Data Analysis
